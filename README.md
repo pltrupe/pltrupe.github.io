@@ -8,7 +8,8 @@ I'm working on expanding my ETL and data engineering skills by moving out of SSI
 - Build and schedule data pipelines
 
 #Projects
-- Coming soon: My first ETL pipeline project
+- Coming soon:
+    - [My First ETL Project](projects/first_project.md)
 
 #Contact
 - pltrupe@gmail.com
