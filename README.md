@@ -1,4 +1,5 @@
 #Hi, I'm Penny
+
 I'm working on expanding my ETL and data engineering skills by moving out of SSIS (my wheelhouse) to using Python to create and automate data pipelines and workflows.
 
 #What I do
